@@ -7,6 +7,6 @@ mcstats.registry.append(
             'unit': 'int',
         },
         mcstats.StatSumReader([
-            mcstats.StatReader(['minecraft:custom','minecraft:eat_cake']),
+            mcstats.StatReader(['minecraft:custom','minecraft:eat_cake_slice']),
         ])
     ))
