@@ -412,6 +412,8 @@
     "award.use_bow.title": "Archer",
     "award.use_crossbow.desc": "Bolts fired",
     "award.use_crossbow.title": "Sharpshooter",
+    "award.use_chest.desc": "Not Enough Storage",
+    "award.use_chest.title": "Chests placed",
     "award.use_dirt.desc": "Dirt blocks placed",
     "award.use_dirt.title": "Getting Dirty",
     "award.use_egg.desc": "Eggs thrown",
