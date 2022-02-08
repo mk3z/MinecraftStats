@@ -404,6 +404,8 @@
     "award.sprint.title": "Marathon",
     "award.swim.desc": "Distance swum",
     "award.swim.title": "Swimmer",
+    "award.talked_to_villager.desc": "Times talked to villagers",
+    "award.talked_to_villager.title": "High Speed Trading",
     "award.time_since_death.desc": "Time since last death",
     "award.time_since_death.title": "Survivor",
     "award.time_since_sleep.desc": "Time since last sleep",
