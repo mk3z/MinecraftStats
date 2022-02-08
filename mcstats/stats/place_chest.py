@@ -2,7 +2,7 @@ from mcstats import mcstats
 
 mcstats.registry.append(
     mcstats.MinecraftStat(
-        'use_chest',
+        'place_chest',
         {
             'unit': 'int',
         },
