@@ -8,6 +8,7 @@ mcstats.registry.append(
         },
         mcstats.StatSumReader([
             mcstats.StatReader(['minecraft:used','minecraft:chest']),
-            mcstats.StatReader(['minecraft:used','minecraft:trapped_chest'])
+            mcstats.StatReader(['minecraft:used','minecraft:trapped_chest']),
+            mcstats.StatReader(['minecraft:used','minecraft:ender_chest'])
         ])
     ))
